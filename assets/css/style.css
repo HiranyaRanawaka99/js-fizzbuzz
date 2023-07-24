@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.fizzbuzz {
+    background-color:palevioletred;
+}
+
+.fizz {
+    background-color:lightsalmon;
+}
+
+.buzz {
+    background-color:cadetblue;
+}
+
+.i {
+    background-color: white;
+
+}

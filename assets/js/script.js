@@ -23,10 +23,11 @@ for(let i=1; i<= 100; i++) {
         //console.log('Buzz')
     } else {
         content = i
+        classes = 'i'
         //console.log(i)
     }
 
-fizzBuzzElements += `<div class="col"> <div class="box ${classes}">${content}</div></div>` ;
+fizzBuzzElements += `<div class="col"> <div class="box ${classes}">${content}</div> </div>` ;
 
 }
 
